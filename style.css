@@ -1,0 +1,113 @@
+.container-fluid{
+  background-color: #000272;
+  padding-top: 0.5rem;
+
+}
+body{
+  color:white;
+
+}
+h1{
+  font-size: 3rem;
+}
+.upper-bar{
+  text-align: left;
+  margin-top: 5%;
+}
+.size{
+  margin:0 1rem;
+}
+.sign{
+  color: white;
+  margin: 0 5px;
+  text-decoration: none;
+}
+.sign:hover{
+  color: white;
+  text-decoration: none;
+}
+.logo{
+margin: 0.5rem;
+height: 3.2rem;
+  }
+.btn{
+  color: white;
+}
+.set-btn{
+  font-size: 1.5rem;
+  margin-left: 10%;
+  margin-top: 3%;
+}
+.hero{
+  margin-left: 8%;
+  margin-bottom: 10%;
+  padding: 2%;
+}
+#center{
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 3%;
+}
+.features{
+margin-right: 10%;
+height: 25rem;
+width: 25rem;
+}
+.pad{
+  padding: 5%;
+}
+.back{
+  background-color: #fff;
+  color: #000;
+  padding: 0;
+
+}
+.grey{
+  color: grey;
+}
+.end{
+  color: black;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px;
+  border-color: black;
+  border-style:solid;
+  padding: 2rem;
+  margin: 5% auto;
+  line-height: 1.5;
+}
+.foot{
+  background-color: #000272;
+  margin-top: 10%;
+ border-top: 1px;
+ border-color: white;
+}
+.bod{
+
+
+  border-color: white;
+  padding:2% 5%;
+}
+.m{
+  display: inline;
+}
+
+.pad2{
+  padding: 5%;
+}
+.copyright{
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 5%;
+  color:grey;
+}
+.li{
+  color: grey;
+  text-decoration: none;
+}
+.li:hover{
+  color: white;
+  text-decoration: none;
+}
